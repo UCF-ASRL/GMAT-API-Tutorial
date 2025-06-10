@@ -6,7 +6,7 @@ Welcome to the ASRL GMAT API tutorial.
 
 ## Python API Tutorial
 
-[Python API](https://github.com/hunterqueb/ASRL-GMAT-API-Tutorial/blob/main/ASRL%20GMAT-Python%20API%20Guide.md)
+[Python API](https://github.com/UCF-ASRL/GMAT-API-Tutorial/blob/main/ASRL%20GMAT-Python%20API%20Guide.md)
 
 ## MATLAB API Tutorial
 Still needs contribution.
