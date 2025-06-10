@@ -99,9 +99,11 @@ $ python
 
 ExBasicEarthProp.py
 - Basic Earth propagation with a full 360x360 J2, drag, and SRP showing how to define initial conditions for OE or cartesian, and getting the numerical results in cartesian.
+  
 ExBasicEarthPropThrust.py
 - Basic Earth propagation with the addition of thrust scheduling as shown in the official documentation.
-ExBasicEarthPropThrust.py
+  
+ExBasicEarthPropEThrust.py
 - Basic Earth propagation with the addition of an electric thruster, demonstrating how to construct an electric power system compared to a chemical thruster.
 
 ## Useful Tips
