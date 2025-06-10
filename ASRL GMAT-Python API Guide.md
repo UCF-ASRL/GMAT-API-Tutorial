@@ -106,6 +106,9 @@ ExBasicEarthPropThrust.py
 ExBasicEarthPropEThrust.py
 - Basic Earth propagation with the addition of an electric thruster, demonstrating how to construct an electric power system compared to a chemical thruster.
 
+ExGetStatesArray.py
+- Demonstration of how to get the state and derivative vectors of an object subject to an arbitrary force model.
+
 ## Useful Tips
 
 ### Loading and Saving Scripts
