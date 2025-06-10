@@ -10,3 +10,7 @@ Welcome to the ASRL GMAT API tutorial.
 
 ## MATLAB API Tutorial
 Still needs contribution.
+
+## Contributing
+
+If you would like to contribute a MATLAB API Guide, example scripts, or any additional GMAT usage tips, open a pull request.
